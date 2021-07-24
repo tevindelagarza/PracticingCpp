@@ -1,0 +1,2 @@
+# Practicing C++
+This is to brush up on skills in the C++ language and develop good programming habits. The book that is being used to do this is **Programming Principles and Practice USing C++** by Bjarne Stroustrup.
