@@ -30,7 +30,7 @@
 *.exe
 *.out
 *.app
-gameoflife
+
 
 # cmake
 CMakeCache.txt
